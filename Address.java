@@ -7,7 +7,6 @@ public class Address {
 	protected String city;
 	protected String state;
 	
-	
 	public Address() {
 		
 	}
@@ -57,7 +56,5 @@ public class Address {
 		return "Address: [Street Number: " + streetNum + ", Street Name: " + streetName + ", City: " + city + ", State:" + state
 				+ "]";
 	}
-
-	
 	
 }
