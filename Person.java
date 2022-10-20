@@ -90,5 +90,4 @@ public class Person {
 					+ ", Email: " + email + ", Address: " + address.toString() + "]";
 		}
 
-				
 }
