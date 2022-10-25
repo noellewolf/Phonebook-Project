@@ -63,8 +63,8 @@ public class MainMenu {
 			System.out.println("This is not a valid Menu Option.");
 			break;
 		}
-		}
 	}
+}
 	//case 1:
 		private static void addPerson() {
 			Scanner input = new Scanner (System.in);
